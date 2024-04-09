@@ -1,14 +1,14 @@
 # Vision Browser
 
-![converted_image](https://github.com/mrdavtan/Vision_Browse/assets/21132073/f4049048-7c77-4ee5-8a82-50aed8886749)
+![converted_image_variation](https://github.com/mrdavtan/Vision_Browse/assets/21132073/4b4eba70-3d26-47a9-aa85-07a6a9b34329)
 
 ## Notes
 
+This is a tool which allows you to navigate the web from a chat window, by taking screenshots and sending them to GPT4Vision using the OpenAI API.
+
+The idea was to use this as an additional search tool when webscraping isn't successful. I added a websocket client to connect it to another LLM/bot.
+
 This is a fork from https://github.com/unconv/gpt4v-browsing Props to unconventional-coding for this cool project!
-
-It allows you to browse the web from a chat session in the terminal by taking screenshots via GPT4Vision using the OpenAI API.
-
-I wanted to use this as an additional search tool to be used by another llm with websockets.
 
 What I've added:
    -improved chat navigation/link selection.\
